@@ -1,2 +1,3 @@
 # new-test
-## Commit #1 - Galewatch
+* Commit #1 - galewatch
+* Commit #2 - dgaleally
